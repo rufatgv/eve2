@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Development\Eve2\9cu tapshirig\bin\Debug\net5.0\9cu tapshirig.exe
+C:\Users\Admin\Desktop\Development\Eve2\9cu tapshirig\bin\Debug\net5.0\9cu tapshirig.deps.json
+C:\Users\Admin\Desktop\Development\Eve2\9cu tapshirig\bin\Debug\net5.0\9cu tapshirig.runtimeconfig.json
+C:\Users\Admin\Desktop\Development\Eve2\9cu tapshirig\bin\Debug\net5.0\9cu tapshirig.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Development\Eve2\9cu tapshirig\bin\Debug\net5.0\9cu tapshirig.dll
+C:\Users\Admin\Desktop\Development\Eve2\9cu tapshirig\bin\Debug\net5.0\ref\9cu tapshirig.dll
+C:\Users\Admin\Desktop\Development\Eve2\9cu tapshirig\bin\Debug\net5.0\9cu tapshirig.pdb
+C:\Users\Admin\Desktop\Development\Eve2\9cu tapshirig\obj\Debug\net5.0\9cu tapshirig.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Development\Eve2\9cu tapshirig\obj\Debug\net5.0\9cu tapshirig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Development\Eve2\9cu tapshirig\obj\Debug\net5.0\9cu tapshirig.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Development\Eve2\9cu tapshirig\obj\Debug\net5.0\9cu tapshirig.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Development\Eve2\9cu tapshirig\obj\Debug\net5.0\9cu tapshirig.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Development\Eve2\9cu tapshirig\obj\Debug\net5.0\9cu tapshirig.dll
+C:\Users\Admin\Desktop\Development\Eve2\9cu tapshirig\obj\Debug\net5.0\ref\9cu tapshirig.dll
+C:\Users\Admin\Desktop\Development\Eve2\9cu tapshirig\obj\Debug\net5.0\9cu tapshirig.pdb
+C:\Users\Admin\Desktop\Development\Eve2\9cu tapshirig\obj\Debug\net5.0\9cu tapshirig.genruntimeconfig.cache

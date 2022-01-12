@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Development\Eve2\7ci tapshirig\bin\Debug\net5.0\7ci tapshirig.exe
+C:\Users\Admin\Desktop\Development\Eve2\7ci tapshirig\bin\Debug\net5.0\7ci tapshirig.deps.json
+C:\Users\Admin\Desktop\Development\Eve2\7ci tapshirig\bin\Debug\net5.0\7ci tapshirig.runtimeconfig.json
+C:\Users\Admin\Desktop\Development\Eve2\7ci tapshirig\bin\Debug\net5.0\7ci tapshirig.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Development\Eve2\7ci tapshirig\bin\Debug\net5.0\7ci tapshirig.dll
+C:\Users\Admin\Desktop\Development\Eve2\7ci tapshirig\bin\Debug\net5.0\ref\7ci tapshirig.dll
+C:\Users\Admin\Desktop\Development\Eve2\7ci tapshirig\bin\Debug\net5.0\7ci tapshirig.pdb
+C:\Users\Admin\Desktop\Development\Eve2\7ci tapshirig\obj\Debug\net5.0\7ci tapshirig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Development\Eve2\7ci tapshirig\obj\Debug\net5.0\7ci tapshirig.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Development\Eve2\7ci tapshirig\obj\Debug\net5.0\7ci tapshirig.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Development\Eve2\7ci tapshirig\obj\Debug\net5.0\7ci tapshirig.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Development\Eve2\7ci tapshirig\obj\Debug\net5.0\7ci tapshirig.dll
+C:\Users\Admin\Desktop\Development\Eve2\7ci tapshirig\obj\Debug\net5.0\ref\7ci tapshirig.dll
+C:\Users\Admin\Desktop\Development\Eve2\7ci tapshirig\obj\Debug\net5.0\7ci tapshirig.pdb
+C:\Users\Admin\Desktop\Development\Eve2\7ci tapshirig\obj\Debug\net5.0\7ci tapshirig.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Development\Eve2\7ci tapshirig\obj\Debug\net5.0\7ci tapshirig.csproj.AssemblyReference.cache

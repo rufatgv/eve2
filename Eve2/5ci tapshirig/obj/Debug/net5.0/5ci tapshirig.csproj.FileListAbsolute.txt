@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Development\Eve2\5ci tapshirig\obj\Debug\net5.0\5ci tapshirig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Development\Eve2\5ci tapshirig\obj\Debug\net5.0\5ci tapshirig.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Development\Eve2\5ci tapshirig\obj\Debug\net5.0\5ci tapshirig.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Development\Eve2\5ci tapshirig\obj\Debug\net5.0\5ci tapshirig.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Development\Eve2\5ci tapshirig\bin\Debug\net5.0\5ci tapshirig.exe
+C:\Users\Admin\Desktop\Development\Eve2\5ci tapshirig\bin\Debug\net5.0\5ci tapshirig.deps.json
+C:\Users\Admin\Desktop\Development\Eve2\5ci tapshirig\bin\Debug\net5.0\5ci tapshirig.runtimeconfig.json
+C:\Users\Admin\Desktop\Development\Eve2\5ci tapshirig\bin\Debug\net5.0\5ci tapshirig.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Development\Eve2\5ci tapshirig\bin\Debug\net5.0\5ci tapshirig.dll
+C:\Users\Admin\Desktop\Development\Eve2\5ci tapshirig\bin\Debug\net5.0\ref\5ci tapshirig.dll
+C:\Users\Admin\Desktop\Development\Eve2\5ci tapshirig\bin\Debug\net5.0\5ci tapshirig.pdb
+C:\Users\Admin\Desktop\Development\Eve2\5ci tapshirig\obj\Debug\net5.0\5ci tapshirig.dll
+C:\Users\Admin\Desktop\Development\Eve2\5ci tapshirig\obj\Debug\net5.0\ref\5ci tapshirig.dll
+C:\Users\Admin\Desktop\Development\Eve2\5ci tapshirig\obj\Debug\net5.0\5ci tapshirig.pdb
+C:\Users\Admin\Desktop\Development\Eve2\5ci tapshirig\obj\Debug\net5.0\5ci tapshirig.genruntimeconfig.cache

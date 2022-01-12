@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Development\Eve2\Eve2\bin\Debug\net5.0\Eve2.exe
+C:\Users\Admin\Desktop\Development\Eve2\Eve2\bin\Debug\net5.0\Eve2.deps.json
+C:\Users\Admin\Desktop\Development\Eve2\Eve2\bin\Debug\net5.0\Eve2.runtimeconfig.json
+C:\Users\Admin\Desktop\Development\Eve2\Eve2\bin\Debug\net5.0\Eve2.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Development\Eve2\Eve2\bin\Debug\net5.0\Eve2.dll
+C:\Users\Admin\Desktop\Development\Eve2\Eve2\bin\Debug\net5.0\ref\Eve2.dll
+C:\Users\Admin\Desktop\Development\Eve2\Eve2\bin\Debug\net5.0\Eve2.pdb
+C:\Users\Admin\Desktop\Development\Eve2\Eve2\obj\Debug\net5.0\Eve2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Development\Eve2\Eve2\obj\Debug\net5.0\Eve2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Development\Eve2\Eve2\obj\Debug\net5.0\Eve2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Development\Eve2\Eve2\obj\Debug\net5.0\Eve2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Development\Eve2\Eve2\obj\Debug\net5.0\Eve2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Development\Eve2\Eve2\obj\Debug\net5.0\Eve2.dll
+C:\Users\Admin\Desktop\Development\Eve2\Eve2\obj\Debug\net5.0\ref\Eve2.dll
+C:\Users\Admin\Desktop\Development\Eve2\Eve2\obj\Debug\net5.0\Eve2.pdb
+C:\Users\Admin\Desktop\Development\Eve2\Eve2\obj\Debug\net5.0\Eve2.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "7ci tapshirig/1.0.0": {
+        "runtime": {
+          "7ci tapshirig.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "7ci tapshirig/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

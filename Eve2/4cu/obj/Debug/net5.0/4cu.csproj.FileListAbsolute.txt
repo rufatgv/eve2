@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Development\Eve2\4cu\bin\Debug\net5.0\4cu.exe
+C:\Users\Admin\Desktop\Development\Eve2\4cu\bin\Debug\net5.0\4cu.deps.json
+C:\Users\Admin\Desktop\Development\Eve2\4cu\bin\Debug\net5.0\4cu.runtimeconfig.json
+C:\Users\Admin\Desktop\Development\Eve2\4cu\bin\Debug\net5.0\4cu.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Development\Eve2\4cu\bin\Debug\net5.0\4cu.dll
+C:\Users\Admin\Desktop\Development\Eve2\4cu\bin\Debug\net5.0\ref\4cu.dll
+C:\Users\Admin\Desktop\Development\Eve2\4cu\bin\Debug\net5.0\4cu.pdb
+C:\Users\Admin\Desktop\Development\Eve2\4cu\obj\Debug\net5.0\4cu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Development\Eve2\4cu\obj\Debug\net5.0\4cu.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Development\Eve2\4cu\obj\Debug\net5.0\4cu.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Development\Eve2\4cu\obj\Debug\net5.0\4cu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Development\Eve2\4cu\obj\Debug\net5.0\4cu.dll
+C:\Users\Admin\Desktop\Development\Eve2\4cu\obj\Debug\net5.0\ref\4cu.dll
+C:\Users\Admin\Desktop\Development\Eve2\4cu\obj\Debug\net5.0\4cu.pdb
+C:\Users\Admin\Desktop\Development\Eve2\4cu\obj\Debug\net5.0\4cu.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Development\Eve2\4cu\obj\Debug\net5.0\4cu.csproj.AssemblyReference.cache

@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d0b71fd1-0760-4a2c-8e1d-aea602b47cea": {
+      "ProjectGuid": "d0b71fd1-0760-4a2c-8e1d-aea602b47cea",
+      "DisplayName": "4cu",
+      "ColorIndex": 0
+    },
+    "4b1f3d4f-c815-4cd4-a4d0-c7ad73b8bea6": {
+      "ProjectGuid": "4b1f3d4f-c815-4cd4-a4d0-c7ad73b8bea6",
+      "DisplayName": "3cu tapsiriq",
+      "ColorIndex": 1
+    },
+    "3ec0cc49-6245-4416-a390-702ac67c51de": {
+      "ProjectGuid": "3ec0cc49-6245-4416-a390-702ac67c51de",
+      "DisplayName": "Eve2",
+      "ColorIndex": 2
+    },
+    "e863dc64-fcbd-4b01-b332-3e8dc07e42bf": {
+      "ProjectGuid": "e863dc64-fcbd-4b01-b332-3e8dc07e42bf",
+      "DisplayName": "5ci tapshirig",
+      "ColorIndex": 3
+    },
+    "4c3acced-e694-415b-ae6e-f4db5fdbd39c": {
+      "ProjectGuid": "4c3acced-e694-415b-ae6e-f4db5fdbd39c",
+      "DisplayName": "6ci tapshirig",
+      "ColorIndex": 4
+    },
+    "984af86f-078d-44da-ae38-1ca3962b9570": {
+      "ProjectGuid": "984af86f-078d-44da-ae38-1ca3962b9570",
+      "DisplayName": "7ci tapshirig",
+      "ColorIndex": 5
+    },
+    "2c4355a7-f1a6-457d-a9ca-49707aaa4d1c": {
+      "ProjectGuid": "2c4355a7-f1a6-457d-a9ca-49707aaa4d1c",
+      "DisplayName": "8ci tapshirig",
+      "ColorIndex": 6
+    },
+    "5957b0ce-74d1-4014-91df-6d41194d31c0": {
+      "ProjectGuid": "5957b0ce-74d1-4014-91df-6d41194d31c0",
+      "DisplayName": "9cu tapshirig",
+      "ColorIndex": 7
+    },
+    "67cd10b5-891e-4d1b-b79e-f5e13d4312e9": {
+      "ProjectGuid": "67cd10b5-891e-4d1b-b79e-f5e13d4312e9",
+      "DisplayName": "10cu tapshirig",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}
